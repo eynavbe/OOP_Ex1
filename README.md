@@ -29,7 +29,7 @@ https://studylib.net/doc/7878746/on-line-algorithms-versus-off-line-algorithms-f
 
 
 ## How our algorithm is executed
-### Our classes:
+#### Our classes:
 •	Building class - provides data on the list of elevators, number of floors, max floor and min floor in the building. This class represents a building with several floors and elevators.
 •	Elevator class - Provides data on the speed, id, stopping time, and min and max floors of an elevator.
 •	CallForElevator class - Provides information on destination floor, source floor, state, allocate elevator, and elevator call time of call. This class represents a call for an elevator - with a dedicated destination
@@ -38,7 +38,7 @@ https://studylib.net/doc/7878746/on-line-algorithms-versus-off-line-algorithms-f
 •	MyTestCase class - Test the code
 •	Bonus class - the implemented code of Bonus - python
 
-### Description of the algorithm's operation
+#### Description of the algorithm's operation
 we have list of calls and list of time. 
 The Elevator list is a list of stop station – for any call that will allocate to the elevator, its source floor and destination will be placed in this list.
 The time list include the time the elevator will reach the floors in the Elevator stop list.
