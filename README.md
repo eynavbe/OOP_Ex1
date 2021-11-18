@@ -53,6 +53,8 @@ note, the unselected elevators should be left without the call we checked
 We will update the list of times in the selected elevator.
 • If the elevator is empty he will only calculate the time it will take for the elevator to get to the call floor and compare with the other elevators and place according to the shortest time.
 
+## Basic UML:
+https://drive.google.com/file/d/1mpHsg9ijyeP21ZMr3X5HUqrPPRfXcg6y/view?usp=sharing
 
 ## Bonus:
 A graphical simulation that shows the movement of elevators in relation to requests in GUI - python. 
