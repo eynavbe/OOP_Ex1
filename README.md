@@ -53,9 +53,6 @@ note, the unselected elevators should be left without the call we checked
 We will update the list of times in the selected elevator.
 • If the elevator is empty he will only calculate the time it will take for the elevator to get to the call floor and compare with the other elevators and place according to the shortest time.
 
-## Basic UML:
-https://drive.google.com/file/d/1mpHsg9ijyeP21ZMr3X5HUqrPPRfXcg6y/view?usp=sharing
-
 ## Bonus:
 A graphical simulation that shows the movement of elevators in relation to requests in GUI - python. 
 •	class Bonus - the implemented code - python
@@ -63,6 +60,12 @@ A graphical simulation that shows the movement of elevators in relation to reque
 The simulation of 2 elevators in motion according to a list of calls between the 2nd and 10th floors.
 Simulation clip of the algorithm of files B2.json, Calls_a.csv:
 https://www.youtube.com/watch?v=YPPQOODfGzQ
+
+## Basic UML:
+
+![1](https://user-images.githubusercontent.com/93534494/146739100-d67cadcd-8883-4627-aa3d-0b6aedd3fbea.jpg)
+
+
        
 
 
